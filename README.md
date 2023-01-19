@@ -1,29 +1,26 @@
 <h1>Hello world 👋🏾</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Adegoke Fuad Ajibola</a></div>
+
     
-<h1>Welcome To ALIPHATIC'S Profile👽</h1>
+<h1>Welcome To  Profile👽</h1>
 
 
 
 ###   **What's my current role in tech?** </h2>
-       { fullStackDeveloper | Blockchain Todler } 
+       { fullStackDeveloper } 
 
-###   **Founder/C.E.O of ANTAPEX** </h2>
-#### Follow ANTAPEX via;
-<a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
-<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
+
 
 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/adegokefuad1/"><img src="images/ig.png" width="70" /></a>
+<a href=" "><img src="images/linkedin.png" width="60" /></a>
+<a href=""><img src="images/twitter.png" width="60" /></a>
+<a href=""><img src="images/ig.png" width="70" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
+Here are some basic things to know about  👽👳🏾‍♂️;
 
 - 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
